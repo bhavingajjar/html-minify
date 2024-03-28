@@ -1,0 +1,31 @@
+{
+  "name": "@bhavingajjar/html-minify",
+  "version": "1.0.0",
+  "description": "A Node.js package for minifying HTML strings, removing unnecessary whitespace, comments, and other optimizations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavingajjar/html-minify.git"
+  },
+  "keywords": [
+    "html",
+    "minifier",
+    "minify",
+    "node",
+    "node.js",
+    "package",
+    "optimization",
+    "whitespace",
+    "comments",
+    "utility"
+  ],
+  "author": "Bhavin Gajjar (https://github.com/bhavingajjar)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhavingajjar/html-minify/issues"
+  },
+  "homepage": "https://github.com/bhavingajjar/html-minify#readme"
+}
